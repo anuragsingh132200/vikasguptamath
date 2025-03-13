@@ -1,7 +1,7 @@
 {
   "home": {
     "hero": {
-      "headline": "Unlock Your Potential with Vibrant Academy",
+      "headline": "Unlock Your Potential with Vikas Gupta",
       "subheadline": "Learn from Mr. Vikas Gupta – Where Excellence Meets Innovation in Education",
       "cta": "Explore Courses"
     },
@@ -10,7 +10,7 @@
       "description": "Mr. Vikas Gupta is a visionary educator dedicated to transforming lives through innovative teaching and personalized mentorship."
     },
     "tagline": {
-      "title": "Math is easy when done with Vibrant Academy",
+      "title": "Math is easy when done with Vikas Gupta",
       "description": "Master JEE Advanced & Mains Mathematics with our proven methodology"
     },
     "stats": {
@@ -180,7 +180,7 @@
         "name": "Rahul Sharma",
         "rank": "AIR 45",
         "year": "2023",
-        "feedback": "Vibrant Academy's mathematics teaching methodology helped me tackle the toughest problems with ease.",
+        "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
         "video": "6fATCLMq_EQ",
         "title": "How I Cracked JEE Advanced"
       },
@@ -198,15 +198,15 @@
         "name": "Amit Kumar",
         "rank": "AIR 120",
         "year": "2023",
-        "feedback": "The problem-solving techniques I learned at Vibrant Academy were game-changers for my JEE preparation.",
+        "feedback": "The problem-solving techniques I learned at Vikas Gupta were game-changers for my JEE preparation.",
         "video": "6fATCLMq_EQ",
         "title": "Success Story: From Average to AIR 120"
       }
     ],
     "faqs": [
       {
-        "question": "How is Vibrant Academy different from other coaching institutes?",
-        "answer": "Vibrant Academy focuses exclusively on mathematics with a unique methodology developed by Mr. Vikas Gupta that breaks down complex concepts into simple, understandable parts. Our specialized approach has consistently produced top JEE ranks."
+        "question": "How is Vikas Gupta different from other coaching institutes?",
+        "answer": "Vikas Gupta focuses exclusively on mathematics with a unique methodology developed by Mr. Vikas Gupta that breaks down complex concepts into simple, understandable parts. Our specialized approach has consistently produced top JEE ranks."
       },
       {
         "question": "Do you offer online classes?",
@@ -256,7 +256,7 @@
       "instructor": {
         "name": "Mr. Vikas Gupta",
         "title": "Mathematics Expert & Founder of Vibrant Academy",
-        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",
+        "image": "/VGSir.jpg",
         "experience": "15+ years",
         "students": 25000,
         "selections": 1200,
@@ -444,7 +444,7 @@
       "instructor": {
         "name": "Mr. Vikas Gupta",
         "title": "Mathematics Expert & Founder of Vibrant Academy",
-        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",
+        "image": "/VGSir.jpg",
         "experience": "15+ years",
         "students": 25000,
         "selections": 1200,

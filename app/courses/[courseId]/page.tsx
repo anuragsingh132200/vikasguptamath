@@ -36,7 +36,7 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
         <div
           className="absolute inset-0 z-0"
           style={{
-            backgroundImage: "url('/dsc_0794.webp')",
+            backgroundImage: "url('/015.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             filter: "blur(2px)",

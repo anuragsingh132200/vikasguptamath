@@ -70,7 +70,7 @@ export default function Page() {
       <section
         className="relative pt-20 overflow-hidden bg-gradient-to-br from-[#5362D0] to-[#5362D0] backdrop-blur-md bg-white/10"
         style={{
-          backgroundImage: "linear-gradient(rgba(83, 98, 208, 0.5), rgba(83, 98, 208, 0.5)), url('/dsc_0794.webp')",
+          backgroundImage: "linear-gradient(rgba(83, 98, 208, 0.5), rgba(83, 98, 208, 0.5)), url('/015.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           opacity: 0.8,
@@ -131,16 +131,16 @@ export default function Page() {
                 className="w-full h-auto rounded-lg shadow-lg"
               />
               <div className="absolute top-8 right-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white">
-                <div className="text-3xl font-bold">1200+</div>
-                <div className="text-sm">Total Courses</div>
+                <div className="text-3xl font-bold">Founder</div>
+                <div className="text-sm">Vibrant Academy kota</div>
               </div>
               <div className="absolute bottom-32 right-8 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white">
-                <div className="text-3xl font-bold">400+</div>
-                <div className="text-sm">Total Instructors</div>
+                <div className="text-3xl font-bold">20+</div>
+                <div className="text-sm">Years Experience</div>
               </div>
               <div className="absolute bottom-48 left-[-70px] bg-white/10 backdrop-blur-md rounded-lg p-4 text-white">
-                <div className="text-3xl font-bold">20,000+</div>
-                <div className="text-sm">Total Students</div>
+                <div className="text-3xl font-bold">Author</div>
+                <div className="text-sm">Black Book of Maths</div>
               </div>
             </div>
           </div>
@@ -186,7 +186,7 @@ export default function Page() {
             </div>
             <div className="md:w-1/2">
               <Image
-                src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&h=400&fit=crop"
+                src="/16.jpg"
                 width={600}
                 height={400}
                 alt="Students learning mathematics"
@@ -296,7 +296,7 @@ export default function Page() {
             </div>
             <div>
               <Image
-                src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600&h=600&fit=crop"
+                src="/VGSir.jpg"
                 width={600}
                 height={600}
                 alt="Mr. Vikas Gupta"
