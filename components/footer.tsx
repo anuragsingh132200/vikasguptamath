@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="backdrop-blur-md bg-white/10 rounded-lg p-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               <div>
-                <h3 className="text-xl font-bold mb-4">Vibrant Academy</h3>
+                <h3 className="text-xl font-bold mb-4">Vikas Gupta</h3>
                 <p className="text-gray-300 mb-4">
                   Transforming mathematics education with innovative teaching methodologies and personalized learning
                   experiences.
@@ -215,7 +215,7 @@ export default function Footer() {
               </div>
             </div>
             <div className="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400 text-sm">
-              <p>© {new Date().getFullYear()} Vibrant Academy. All rights reserved.</p>
+              <p>© {new Date().getFullYear()} Vikas Gupta. All rights reserved.</p>
             </div>
           </div>
         </div>
