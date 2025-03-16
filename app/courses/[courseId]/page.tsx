@@ -220,7 +220,7 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
               <p className="text-gray-600 mb-4">{course.instructor.title}</p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-6">
                 <div className="flex flex-col items-center p-3 bg-gray-50 rounded-lg">
-                  <span className="font-bold text-xl text-blue-600">{course.instructor.experience}</span>
+                  <span className="font-bold text-xl text-blue-600">23+ years</span>
                   <span className="text-gray-600">Teaching Experience</span>
                 </div>
                 <div className="flex flex-col items-center p-3 bg-gray-50 rounded-lg">
@@ -235,7 +235,7 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
                 </div>
               </div>
               <p className="text-gray-700">
-                Mr. Vikas Gupta is a renowned mathematics educator with over 15 years of experience in teaching
+                Mr. Vikas Gupta is a renowned mathematics educator with over 23+ years of experience in teaching
                 JEE aspirants. His unique teaching methodology has helped thousands of students crack JEE with
                 top ranks. He is known for simplifying complex mathematical concepts and making them accessible
                 to students of all levels.

@@ -168,7 +168,7 @@ export default function Page() {
                 />
               </div>
               <div className="absolute bottom-0 right-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
-                <div className="text-2xl font-bold">20+</div>
+                <div className="text-2xl font-bold">23+</div>
                 <div className="text-sm">Years Experience</div>
               </div>
               <div className="absolute top-48 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
