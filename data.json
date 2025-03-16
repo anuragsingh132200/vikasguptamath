@@ -412,7 +412,8 @@
           "question": "Is there a refund policy?",
           "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
-      ]
+      ],
+      "enrollLink": "https://forms.gle/exampleLink1"
     },
     "jee-mains-maths": {
       "title": "JEE Mains Mathematics",
@@ -613,7 +614,8 @@
           "question": "Is there a scholarship program available?",
           "answer": "Yes, we offer merit-based scholarships based on performance in our selection test or previous academic achievements."
         }
-      ]
+      ],
+      "enrollLink": "https://forms.gle/exampleLink2"
     },
     "course-xi-xii-jee-2027": {
       "title": "JEE Advanced 2027 - XI & XII Syllabus",
@@ -687,7 +689,8 @@
           "question": "Is there a refund policy?",
           "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
-      ]
+      ],
+      "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSchLotDLpr9XvmasvxEeFEn-0u81wI67issGsf7lrXJsA1ahQ/viewform"
     },
     "jee-advanced-maths-revision-2025": {
       "title": "JEE Advanced Mathematics Revision 2025",
@@ -760,7 +763,8 @@
           "question": "Is there a refund policy?",
           "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
-      ]
+      ],
+      "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSecSS07y1WN9qfPtvS9KHcT4o171dbXu1ZJ0LxwIx1894uadg/viewform"
     },
     "course-xii-jee-2026": {
       "title": "JEE Advanced 2026 - XII Syllabus",
@@ -834,7 +838,8 @@
           "question": "Is there a refund policy?",
           "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
-      ]
+      ],
+      "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSdzNf_qNysnKNyaR7Ed_Mq8kcnRoyOUagkV4zLfH120_tfuIg/viewform"
     }
   }
 }

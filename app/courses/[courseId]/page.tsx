@@ -117,7 +117,11 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
                     <span>Starts {course.startDate}</span>
                   </div>
                 </div>
-                <Button className="w-full text-lg bg-red-600 hover:bg-red-700" size="lg">
+                <Button
+                  className="w-full text-lg bg-red-600 hover:bg-red-700"
+                  size="lg"
+                  onClick={() => window.location.href = course.enrollLink}
+                >
                   Enroll Now
                 </Button>
                 <Button variant="outline" className="w-full border-white text-white hover:bg-white/10">
