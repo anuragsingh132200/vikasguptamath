@@ -102,8 +102,8 @@ export default function Page() {
         </div>
 
         {/* Decorative Elements */}
-        <div className="absolute top-20 right-10 w-64 h-64 bg-white/10 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-10 left-10 w-72 h-72 bg-white/10 rounded-full blur-3xl"></div>
+        <div className="absolute top-20 right-10 w-32 h-32 bg-white/10 rounded-full blur-3xl z-20"></div>
+        <div className="absolute bottom-10 left-10 w-36 h-36 bg-white/10 rounded-full blur-3xl z-20"></div>
 
         <div className="container relative z-10 mx-auto max-w-6xl px-4 pt-12 pb-24">
           <div className="grid lg:grid-cols-12 gap-8 items-center">
@@ -123,10 +123,18 @@ export default function Page() {
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
-                <Button size="lg" className="bg-white hover:bg-gray-200 text-[#5362D0] font-bold px-8 text-lg h-12">
+                <Button
+                  size="lg"
+                  className="bg-white hover:bg-gray-200 text-[#5362D0] font-bold px-8 text-lg h-12"
+                  onClick={() => document.getElementById('courses')?.scrollIntoView({ behavior: 'smooth' })}
+                >
                   Explore Courses
                 </Button>
-                <Button size="lg" className="bg-white hover:bg-gray-200 text-[#5362D0] font-bold px-8 text-lg h-12">
+                <Button
+                  size="lg"
+                  className="bg-white hover:bg-gray-200 text-[#5362D0] font-bold px-8 text-lg h-12"
+                  onClick={() => document.getElementById('test-series')?.scrollIntoView({ behavior: 'smooth' })}
+                >
                   Explore Test series
                 </Button>
               </div>
@@ -151,124 +159,24 @@ export default function Page() {
             {/* Image Content - Takes 5 columns on large screens */}
             <div className="lg:col-span-5 relative">
               <div className="relative z-10 rounded-lg overflow-hidden shadow-2xl border border-white/20 backdrop-blur-sm">
-                {/* Remove the Image component */}
-                {/* Floating Cards */}
-                <div className="absolute top-0 right-0 bg-white rounded-lg shadow-xl p-4 w-48 transform rotate-3">
-                  <div className="flex items-center gap-3">
-                    <div className="bg-green-500 rounded-full p-2">
-                      <CheckCircle className="w-4 h-4 text-white" />
-                    </div>
-                    <div>
-                      <p className="text-sm font-bold text-gray-800">JEE Advanced</p>
-                      <p className="text-xs text-gray-600">Top Results</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="absolute bottom-0 left-0 bg-white rounded-lg shadow-xl p-4 w-48 transform -rotate-3">
-                  <div className="flex items-center gap-3">
-                    <div className="bg-blue-500 rounded-full p-2">
-                      <Trophy className="w-4 h-4 text-white" />
-                    </div>
-                    <div>
-                      <p className="text-sm font-bold text-gray-800">20+ Years</p>
-                      <p className="text-xs text-gray-600">Teaching Excellence</p>
-                    </div>
-                  </div>
-                </div>
-                
+                <Image
+                  src="/maxresdefault-Photoroom (1)-Photoroom (1).png"
+                  alt="Hero"
+                  width={600}
+                  height={600}
+                  className="w-full h-auto rounded-lg shadow-lg"
+                />
               </div>
-
-              {/* Testimonial Previews */}
-              <div className="absolute bottom-4 right-4 flex flex-col gap-3">
-                <div className="bg-white rounded-lg shadow-xl p-4 max-w-xs hidden">
-                  <div className="flex items-start gap-3">
-                    <div className="flex -space-x-2">
-                      <Image
-                        src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=64&h=64&fit=crop"
-                        width={40}
-                        height={40}
-                        alt="Student"
-                        className="rounded-full border-2 border-white"
-                      />
-                    </div>
-                    <div>
-                      <div className="flex items-center">
-                        <div className="flex">
-                          {[...Array(5)].map((_, i) => (
-                            <Star key={i} className="w-3 h-3 text-yellow-400 fill-yellow-400" />
-                          ))}
-                        </div>
-                        <span className="text-xs font-medium ml-1">4.9/5</span>
-                      </div>
-                      <p className="text-xs text-gray-600 mt-1">
-                        "Vikas sir's teaching methodology transformed my approach to mathematics."
-                      </p>
-                      <p className="text-xs font-bold text-gray-800 mt-1">- Aaryan Sharma, AIR 15</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="bg-white rounded-lg shadow-xl p-4 max-w-xs">
-                  <div className="flex items-start gap-3">
-                    <div className="flex -space-x-2">
-                      <Image
-                        src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=64&h=64&fit=crop"
-                        width={40}
-                        height={40}
-                        alt="Student"
-                        className="rounded-full border-2 border-white"
-                      />
-                    </div>
-                    <div>
-                      <div className="flex items-center">
-                        <div className="flex">
-                          {[...Array(5)].map((_, i) => (
-                            <Star key={i} className="w-3 h-3 text-yellow-400 fill-yellow-400" />
-                          ))}
-                        </div>
-                        <span className="text-xs font-medium ml-1">4.8/5</span>
-                      </div>
-                      <p className="text-xs text-gray-600 mt-1">
-                        "The best mathematics teacher I have ever had."
-                      </p>
-                      <p className="text-xs font-bold text-gray-800 mt-1">- Priya Singh, AIR 25</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="bg-white rounded-lg shadow-xl p-4 max-w-xs">
-                  <div className="flex items-start gap-3">
-                    <div className="flex -space-x-2">
-                      <Image
-                        src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=64&h=64&fit=crop"
-                        width={40}
-                        height={40}
-                        alt="Student"
-                        className="rounded-full border-2 border-white"
-                      />
-                    </div>
-                    <div>
-                      <div className="flex items-center">
-                        <div className="flex">
-                          {[...Array(5)].map((_, i) => (
-                            <Star key={i} className="w-3 h-3 text-yellow-400 fill-yellow-400" />
-                          ))}
-                        </div>
-                        <span className="text-xs font-medium ml-1">4.7/5</span>
-                      </div>
-                      <p className="text-xs text-gray-600 mt-1">
-                        "Highly recommend for JEE preparation."
-                      </p>
-                      <p className="text-xs font-bold text-gray-800 mt-1">- Rahul Verma, AIR 35</p>
-                    </div>
-                  </div>
-                </div>
+              <div className="absolute bottom-0 right-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+                <div className="text-2xl font-bold">20+</div>
+                <div className="text-sm">Years Experience</div>
+              </div>
+              <div className="absolute top-48 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+              <div className="text-2xl font-bold">Founder</div>
+              <div className="text-sm">Vibrant Academy kota</div>
               </div>
             </div>
           </div>
-
-          
         </div>
 
         {/* Wave Divider */}
@@ -337,12 +245,7 @@ export default function Page() {
             <CarouselNext className="right-2" />
           </Carousel>
 
-          <div className="mt-8 text-center">
-            <Button variant="outline" className="gap-2">
-              View All Success Stories
-              <ArrowRight className="w-4 h-4" />
-            </Button>
-          </div>
+         
         </div>
       </section>
 
@@ -396,7 +299,7 @@ export default function Page() {
       </section>
 
       {/* Test Series for 2025 */}
-      <section className="py-16 px-4 md:px-6 lg:px-8 bg-gray-50">
+      <section id="test-series" className="py-16 px-4 md:px-6 lg:px-8 bg-gray-50">
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Test Series for 2025</h2>

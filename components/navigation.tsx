@@ -31,7 +31,7 @@ export default function Navigation() {
       <div className="container mx-auto max-w-6xl px-4">
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center space-x-2">
-            <span className=" font-bold text-xl text-[#5362D0]">Vikas Gupta</span>
+            <span className=" font-bold text-xl text-black">Vikas Gupta</span>
           </Link>
           <div className="hidden md:flex items-center space-x-8">
             <a href="#courses" className="hover:text-[#5362D0] transition-all">
@@ -43,7 +43,7 @@ export default function Navigation() {
             <a href="#about-us" className="hover:text-[#5362D0] transition-all">
               About Us
             </a>
-            <a href="#contact" className="hover:text-[#5362D0] transition-all">
+            <a href="#footer" className="hover:text-[#5362D0] transition-all">
               Contact
             </a>
           </div>
@@ -79,7 +79,7 @@ export default function Navigation() {
               About Us
             </a>
             <a
-              href="#contact"
+              href="#footer"
               className="block text-white hover:text-teal-100 transition-all"
               onClick={() => setIsMenuOpen(false)}
             >
