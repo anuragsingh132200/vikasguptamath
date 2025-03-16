@@ -232,7 +232,7 @@ export default function Page() {
                         <div className="flex items-center gap-2 text-sm text-gray-600">
                           <span className="font-semibold text-red-600">{testimonial.rank}</span>
                           <span>|</span>
-                          <span>JEE Advanced {testimonial.year}</span>
+                          <span>{testimonial.year}</span>
                         </div>
                         <p className="mt-2 text-sm text-gray-600">{testimonial.feedback}</p>
                       </div>

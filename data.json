@@ -20,58 +20,45 @@
     },
     "coursesOverview": [
       {
-        "id": "jee-advanced-maths",
-        "title": "JEE Advanced Mathematics",
-        "description": "Comprehensive course covering all JEE Advanced Mathematics topics with problem-solving techniques.",
+        "id": "course-xi-xii-jee-2027",
+        "title": "JEE Advanced 2027 - XI & XII Syllabus",
+        "description": "Comprehensive course covering Class XI & XII syllabus with revision through problems till JEE Advanced 2027.",
         "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2025",
+        "batch": "2027",
         "tag": "Bestseller",
-        "tagColor": "bg-red-500"
+        "tagColor": "bg-red-500",
+        "fees": "Rs 61000",
+        "startDate": "3 April",
+        "endDate": "Till JEE Advanced 2027",
+        "classTimings": "9:15 pm to 11:00 pm on Monday, Wednesday and Friday in class XI and Tuesday, Thursday, Saturday in class XII",
+        "note": "No refund will be entertained in any circumstances."
       },
       {
-        "id": "jee-mains-maths",
-        "title": "JEE Mains Mathematics",
-        "description": "Complete preparation for JEE Mains Mathematics with focus on fundamentals and quick-solving methods.",
+        "id": "jee-advanced-maths-revision-2025",
+        "title": "JEE Advanced Mathematics Revision 2025",
+        "description": "Complete syllabus revision through problems till JEE Advanced 2025.",
         "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
         "batch": "2025",
         "tag": "Popular",
-        "tagColor": "bg-blue-500"
+        "tagColor": "bg-blue-500",
+        "fees": "Rs 15000",
+        "startDate": "1 February",
+        "classTimings": "9:15 pm to 11:00 pm on Tuesday, and Saturday. After second mains: Timings will be 7:00 am to 8:45 am",
+        "note": "No refund will be entertained in any circumstances."
       },
       {
-        "id": "maths-foundation",
-        "title": "Mathematics Foundation",
-        "description": "Build strong mathematical fundamentals for Class 11-12 students preparing for competitive exams.",
+        "id": "course-xii-jee-2026",
+        "title": "JEE Advanced 2026 - XII Syllabus",
+        "description": "XII class syllabus and revision through problems till JEE Advanced 2026.",
         "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2025",
+        "batch": "2026",
         "tag": "New",
-        "tagColor": "bg-green-500"
-      },
-      {
-        "id": "maths-crash-course",
-        "title": "Mathematics Crash Course",
-        "description": "Intensive 2-month crash course for last-minute JEE preparation with focus on high-weightage topics.",
-        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2025",
-        "tag": "Limited Seats",
-        "tagColor": "bg-yellow-500"
-      },
-      {
-        "id": "maths-problem-solving",
-        "title": "Advanced Problem Solving",
-        "description": "Master complex mathematical problems with advanced techniques and shortcuts.",
-        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2025",
-        "tag": "Advanced",
-        "tagColor": "bg-purple-500"
-      },
-      {
-        "id": "maths-olympiad",
-        "title": "Mathematics Olympiad",
-        "description": "Specialized training for Mathematics Olympiad and other competitive mathematics examinations.",
-        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2025",
-        "tag": "Special",
-        "tagColor": "bg-indigo-500"
+        "tagColor": "bg-green-500",
+        "fees": "Rs 32500",
+        "startDate": "January beginning (date not finalised yet)",
+        "endDate": "Till JEE Advanced 2026",
+        "classTimings": "9:15 pm to 11:00 pm",
+        "note": "No refund will be entertained in any circumstances."
       }
     ],
     "testSeries": [
@@ -176,31 +163,31 @@
     ],
     "testimonials": [
       {
-        "id": "hBh_CC5y8-s",
-        "name": "Rahul Sharma",
-        "rank": "AIR 45",
-        "year": "2023",
-        "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
-        "video": "oYmcMLkj3co",
-        "title": "How I Cracked JEE Advanced"
-      },
-      {
         "id": "0PAMqxFIn-U",
-        "name": "Priya Patel",
-        "rank": "AIR 78",
-        "year": "2023",
+        "name": "Deshank Pratap Singh",
+        "rank": "AIR 22",
+        "year": "JEE Advanced 2024",
         "feedback": "Mr. Gupta's unique approach to mathematics made complex topics simple to understand.",
         "video": "waSfjxKuzB0",
         "title": "My Journey to IIT Bombay"
       },
       {
         "id": "YN7BdC3r_vU",
-        "name": "Amit Kumar",
-        "rank": "AIR 120",
-        "year": "2023",
+        "name": " Mohak Singh Rana",
+        "rank": "AIR 165",
+        "year": "JEE Advanced 2024",
         "feedback": "The problem-solving techniques I learned at Vikas Gupta were game-changers for my JEE preparation.",
-        "video": "XkcroxE8ifs",
+        "video": "L6z76MhX3YA",
         "title": "Success Story: From Average to AIR 120"
+      },
+      {
+        "id": "hBh_CC5y8-s",
+        "name": "Pallav Kamad",
+        "rank": "AIR 188",
+        "year": "JEE MAINS 2023",
+        "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
+        "video": "oYmcMLkj3co",
+        "title": "How I Cracked JEE Main"
       }
     ],
     "faqs": [
@@ -239,25 +226,25 @@
     ]
   },
   "courseDetails": {
-    "jee-advanced-maths": {
-      "title": "JEE Advanced Mathematics",
-      "subtitle": "Comprehensive course covering all JEE Advanced Mathematics topics with problem-solving techniques",
+    "jee-advanced-maths-revision": {
+      "title": "JEE Advanced Mathematics Rrvision",
+      "subtitle": "Complete Syllabus Revision through problems till JEE advanced 2025",
       "batch": "2025",
       "rating": 4.9,
       "reviews": 1245,
       "students": 5000,
-      "price": 25000,
-      "originalPrice": 30000,
+      "price": 15000,
+      "originalPrice": 15000,
       "duration": "12 months",
-      "classes": "5 classes per week, 2 hours each",
-      "startDate": "June 15, 2024",
+      "classes": "9:15 pm to 11:00 pm on Tuesday, and Saturday",
+      "startDate": "1 February,2025",
       "language": "English & Hindi",
       "level": "Advanced",
       "instructor": {
         "name": "Mr. Vikas Gupta",
         "title": "Mathematics Expert & Founder of Vibrant Academy",
         "image": "/VGSir.jpg",
-        "experience": "15+ years",
+        "experience": "20+ years",
         "students": 25000,
         "selections": 1200,
         "toppers": 120
@@ -627,7 +614,227 @@
           "answer": "Yes, we offer merit-based scholarships based on performance in our selection test or previous academic achievements."
         }
       ]
+    },
+    "course-xi-xii-jee-2027": {
+      "title": "JEE Advanced 2027 - XI & XII Syllabus",
+      "subtitle": "Comprehensive course covering Class XI & XII syllabus with revision through problems till JEE Advanced 2027",
+      "batch": "2027",
+      "rating": 4.9,
+      "reviews": 1245,
+      "students": 5000,
+      "price": 61000,
+      "originalPrice": 61000,
+      "duration": "3 years",
+      "classes": "9:15 pm to 11:00 pm on Monday, Wednesday and Friday in class XI and Tuesday, Thursday, Saturday in class XII",
+      "startDate": "3 April",
+      "endDate": "Till JEE Advanced 2027",
+      "language": "English & Hindi",
+      "level": "Advanced",
+      "instructor": {
+        "name": "Mr. Vikas Gupta",
+        "title": "Mathematics Expert & Founder of Vibrant Academy",
+        "image": "/VGSir.jpg",
+        "experience": "20+ years",
+        "students": 25000,
+        "selections": 1200,
+        "toppers": 120
+      },
+      "whatYouWillLearn": [
+        "Comprehensive understanding of Class XI & XII Mathematics syllabus",
+        "Effective problem-solving techniques and shortcuts",
+        "Develop mathematical intuition and analytical thinking",
+        "Practice with thousands of problems of varying difficulty levels",
+        "Understand the JEE Advanced examination pattern and question types",
+        "Learn time management and exam strategies",
+        "Get personalized feedback and improvement plans",
+        "Access to recorded lectures for revision"
+      ],
+      "features": [
+        "Comprehensive study material and notes",
+        "Daily practice problems with solutions",
+        "Weekly tests and assessments",
+        "Doubt clearing sessions",
+        "One-on-one mentoring",
+        "Performance tracking and analysis",
+        "Parent-teacher meetings",
+        "Recorded lectures for revision"
+      ],
+      "note": "No refund will be entertained in any circumstances.",
+      "requirements": [
+        "Strong foundation in Class 11-12 Mathematics",
+        "Dedication to regular practice and problem-solving",
+        "Commitment to completing assignments and tests",
+        "Basic understanding of algebraic manipulations"
+      ],
+      "faqs": [
+        {
+          "question": "Is this course suitable for JEE Mains preparation as well?",
+          "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
+        },
+        {
+          "question": "What is the batch size?",
+          "answer": "We maintain a small batch size of maximum 30 students to ensure personalized attention and effective learning."
+        },
+        {
+          "question": "Are there any prerequisites for joining this course?",
+          "answer": "Students should have a basic understanding of Class 11-12 Mathematics concepts. A selection test will be conducted to assess the current level of understanding."
+        },
+        {
+          "question": "How many hours of study are recommended daily?",
+          "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
+        },
+        {
+          "question": "Is there a refund policy?",
+          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
+        }
+      ]
+    },
+    "jee-advanced-maths-revision-2025": {
+      "title": "JEE Advanced Mathematics Revision 2025",
+      "subtitle": "Complete Syllabus Revision through problems till JEE Advanced 2025",
+      "batch": "2025",
+      "rating": 4.9,
+      "reviews": 1245,
+      "students": 5000,
+      "price": 15000,
+      "originalPrice": 15000,
+      "duration": "12 months",
+      "classes": "9:15 pm to 11:00 pm on Tuesday, and Saturday. After second mains: Timings will be 7:00 am to 8:45 am",
+      "startDate": "1 February",
+      "language": "English & Hindi",
+      "level": "Advanced",
+      "instructor": {
+        "name": "Mr. Vikas Gupta",
+        "title": "Mathematics Expert & Founder of Vibrant Academy",
+        "image": "/VGSir.jpg",
+        "experience": "20+ years",
+        "students": 25000,
+        "selections": 1200,
+        "toppers": 120
+      },
+      "whatYouWillLearn": [
+        "Complete syllabus revision through problems till JEE Advanced 2025",
+        "Effective problem-solving techniques and shortcuts",
+        "Develop mathematical intuition and analytical thinking",
+        "Practice with thousands of problems of varying difficulty levels",
+        "Understand the JEE Advanced examination pattern and question types",
+        "Learn time management and exam strategies",
+        "Get personalized feedback and improvement plans",
+        "Access to recorded lectures for revision"
+      ],
+      "features": [
+        "Comprehensive study material and notes",
+        "Daily practice problems with solutions",
+        "Weekly tests and assessments",
+        "Doubt clearing sessions",
+        "One-on-one mentoring",
+        "Performance tracking and analysis",
+        "Parent-teacher meetings",
+        "Recorded lectures for revision"
+      ],
+      "note": "No refund will be entertained in any circumstances.",
+      "requirements": [
+        "Strong foundation in Class 11-12 Mathematics",
+        "Dedication to regular practice and problem-solving",
+        "Commitment to completing assignments and tests",
+        "Basic understanding of algebraic manipulations"
+      ],
+      "faqs": [
+        {
+          "question": "Is this course suitable for JEE Mains preparation as well?",
+          "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
+        },
+        {
+          "question": "What is the batch size?",
+          "answer": "We maintain a small batch size of maximum 30 students to ensure personalized attention and effective learning."
+        },
+        {
+          "question": "Are there any prerequisites for joining this course?",
+          "answer": "Students should have a basic understanding of Class 11-12 Mathematics concepts. A selection test will be conducted to assess the current level of understanding."
+        },
+        {
+          "question": "How many hours of study are recommended daily?",
+          "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
+        },
+        {
+          "question": "Is there a refund policy?",
+          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
+        }
+      ]
+    },
+    "course-xii-jee-2026": {
+      "title": "JEE Advanced 2026 - XII Syllabus",
+      "subtitle": "XII class syllabus and revision through problems till JEE Advanced 2026",
+      "batch": "2026",
+      "rating": 4.9,
+      "reviews": 1245,
+      "students": 5000,
+      "price": 32500,
+      "originalPrice": 32500,
+      "duration": "2 years",
+      "classes": "9:15 pm to 11:00 pm",
+      "startDate": "January beginning (date not finalised yet)",
+      "endDate": "Till JEE Advanced 2026",
+      "language": "English & Hindi",
+      "level": "Advanced",
+      "instructor": {
+        "name": "Mr. Vikas Gupta",
+        "title": "Mathematics Expert & Founder of Vibrant Academy",
+        "image": "/VGSir.jpg",
+        "experience": "20+ years",
+        "students": 25000,
+        "selections": 1200,
+        "toppers": 120
+      },
+      "whatYouWillLearn": [
+        "Complete understanding of Class XII Mathematics syllabus",
+        "Effective problem-solving techniques and shortcuts",
+        "Develop mathematical intuition and analytical thinking",
+        "Practice with thousands of problems of varying difficulty levels",
+        "Understand the JEE Advanced examination pattern and question types",
+        "Learn time management and exam strategies",
+        "Get personalized feedback and improvement plans",
+        "Access to recorded lectures for revision"
+      ],
+      "features": [
+        "Comprehensive study material and notes",
+        "Daily practice problems with solutions",
+        "Weekly tests and assessments",
+        "Doubt clearing sessions",
+        "One-on-one mentoring",
+        "Performance tracking and analysis",
+        "Parent-teacher meetings",
+        "Recorded lectures for revision"
+      ],
+      "note": "No refund will be entertained in any circumstances.",
+      "requirements": [
+        "Strong foundation in Class 11-12 Mathematics",
+        "Dedication to regular practice and problem-solving",
+        "Commitment to completing assignments and tests",
+        "Basic understanding of algebraic manipulations"
+      ],
+      "faqs": [
+        {
+          "question": "Is this course suitable for JEE Mains preparation as well?",
+          "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
+        },
+        {
+          "question": "What is the batch size?",
+          "answer": "We maintain a small batch size of maximum 30 students to ensure personalized attention and effective learning."
+        },
+        {
+          "question": "Are there any prerequisites for joining this course?",
+          "answer": "Students should have a basic understanding of Class 11-12 Mathematics concepts. A selection test will be conducted to assess the current level of understanding."
+        },
+        {
+          "question": "How many hours of study are recommended daily?",
+          "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
+        },
+        {
+          "question": "Is there a refund policy?",
+          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
+        }
+      ]
     }
   }
 }
-
