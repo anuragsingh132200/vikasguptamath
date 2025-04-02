@@ -110,7 +110,7 @@ export default function Page() {
             {/* Text Content - Takes 7 columns on large screens */}
             <div className="lg:col-span-7 text-white space-y-8">
               <div className="inline-block px-4 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm font-medium mb-2">
-                Trusted by 10,000+ JEE aspirants
+                Trusted by 1,00,000+ JEE aspirants
               </div>
 
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
@@ -143,7 +143,7 @@ export default function Page() {
               <div className="grid grid-cols-3 gap-4 pt-8 border-t border-white/20 mt-8">
                 <div className="text-center">
                   <div className="text-3xl font-bold text-yellow-300">{data.home.stats.students}</div>
-                  <div className="text-sm text-white/80">Students</div>
+                  <div className="text-sm text-white/80">IITians & NITians Produced</div>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl font-bold text-yellow-300">{data.home.stats.selections}</div>

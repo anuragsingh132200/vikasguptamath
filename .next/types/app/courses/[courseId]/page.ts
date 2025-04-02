@@ -1,4 +1,4 @@
-// File: /home/anurag/Downloads/vikas-gupta/vikasguptamath/app/courses/[courseId]/page.tsx
+// File: /home/anurag/Downloads/finanace/vikasguptamath/app/courses/[courseId]/page.tsx
 import * as entry from '../../../../../app/courses/[courseId]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

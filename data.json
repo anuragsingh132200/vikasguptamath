@@ -34,14 +34,14 @@
         "note": "No refund will be entertained in any circumstances."
       },
       {
-        "id": "jee-advanced-maths-revision-2025",
-        "title": "JEE Advanced Mathematics Revision 2025",
+        "id": "jee-advanced-maths-dropper-2025",
+        "title": "JEE Advanced Mathematics Dropper 2025",
         "description": "Complete syllabus revision through problems till JEE Advanced 2025.",
         "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
         "batch": "2025",
         "tag": "Popular",
         "tagColor": "bg-blue-500",
-        "fees": "Rs 15000",
+        "fees": "Rs 40000",
         "startDate": "1 February",
         "classTimings": "9:15 pm to 11:00 pm on Tuesday, and Saturday. After second mains: Timings will be 7:00 am to 8:45 am",
         "note": "No refund will be entertained in any circumstances."
@@ -692,15 +692,15 @@
       ],
       "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSchLotDLpr9XvmasvxEeFEn-0u81wI67issGsf7lrXJsA1ahQ/viewform"
     },
-    "jee-advanced-maths-revision-2025": {
-      "title": "JEE Advanced Mathematics Revision 2025",
+    "jee-advanced-maths-dropper-2025": {
+      "title": "JEE Advanced Mathematics Dropper 2025",
       "subtitle": "Complete Syllabus Revision through problems till JEE Advanced 2025",
       "batch": "2025",
       "rating": 4.9,
       "reviews": 1245,
       "students": 5000,
-      "price": 15000,
-      "originalPrice": 15000,
+      "price": 40000,
+      "originalPrice": 40000,
       "duration": "12 months",
       "classes": "9:15 pm to 11:00 pm on Tuesday, and Saturday. After second mains: Timings will be 7:00 am to 8:45 am",
       "startDate": "1 February",
@@ -764,7 +764,7 @@
           "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
       ],
-      "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSecSS07y1WN9qfPtvS9KHcT4o171dbXu1ZJ0LxwIx1894uadg/viewform"
+      "enrollLink": "https://forms.gle/KDduqBnk5vkYcoDA8"
     },
     "course-xii-jee-2026": {
       "title": "JEE Advanced 2026 - XII Syllabus",
