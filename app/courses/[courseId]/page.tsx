@@ -4,6 +4,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
+import { useRouter } from "next/navigation"; 
 import {
   BookOpen,
   CheckCircle,
@@ -23,8 +24,19 @@ import { useState } from "react"
 import data from "@/data.json"
 
 export default function CourseDetailsPage({ params }: { params: { courseId: string } }) {
-  const course = data.courseDetails[params.courseId as keyof typeof data.courseDetails]
+  const course = data.courseDetails[params.courseId as keyof typeof data.courseDetails];
+  const router = useRouter(); // Move this after `course` definition
 
+
+  const handleDownloadSyllabus = () => {
+    if (params.courseId === "course-xi-xii-jee-2027") {
+      window.location.href = "/ACADEMIC PLANNING CLASS XI (1).pdf";
+    } else if (params.courseId === "jee-advanced-maths-dropper-2025") {
+      window.location.href = "/Droppers Batch.pdf";
+    } else {
+      window.location.href ="/ACADEMIC PLANNING CLASS XII.pptx";
+    }
+  };
   if (!course) {
     return <div className="min-h-screen flex items-center justify-center">Course not found</div>
   }
@@ -184,9 +196,13 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
         {/* Course Syllabus Download */}
         <Card className="p-6 bg-white">
           <h2 className="text-xl font-bold mb-4">Course Syllabus</h2>
-          <Button className="w-full text-lg bg-blue-600 hover:bg-blue-700" size="lg">
-            Download Course Syllabus
-          </Button>
+          <Button
+        className="w-full text-lg bg-blue-600 hover:bg-blue-700"
+        size="lg"
+        onClick={handleDownloadSyllabus}
+      >
+        Download Course Syllabus
+      </Button>
         </Card>
 
         {/* Requirements */}
