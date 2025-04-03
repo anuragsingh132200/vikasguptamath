@@ -131,9 +131,13 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
                 >
                   Enroll Now
                 </Button>
-                <Button variant="outline" className="w-full border-white text-white hover:bg-white/10">
-                  Try Free Demo Class
-                </Button>
+                <Button
+  variant="outline"
+  className="w-full border-white text-white hover:bg-white/10"
+  onClick={() => window.open("https://www.youtube.com/watch?v=vhOU2rgjkwk", "_blank")}
+>
+  Try Free Demo Class
+</Button>
                 <div className="space-y-3 pt-4 border-t border-white/20">
                   <h3 className="font-bold">This course includes:</h3>
                   <div className="space-y-2 text-sm">
