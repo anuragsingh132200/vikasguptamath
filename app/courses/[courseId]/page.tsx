@@ -56,11 +56,6 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
               <p className="text-lg text-gray-200 mb-6">{course.subtitle}</p>
               <div className="flex flex-wrap items-center gap-6 text-sm mb-6">
                 <div className="flex items-center gap-1">
-                  <Star className="w-5 h-5 text-yellow-400 fill-current" />
-                  <span className="font-bold">{course.rating}</span>
-                  <span className="text-gray-300">({course.reviews.toLocaleString()} ratings)</span>
-                </div>
-                <div className="flex items-center gap-1">
                   <Users className="w-5 h-5 text-gray-300" />
                   <span>{course.students.toLocaleString()} students</span>
                 </div>
@@ -127,7 +122,6 @@ export default function CourseDetailsPage({ params }: { params: { courseId: stri
                 <Button variant="outline" className="w-full border-white text-white hover:bg-white/10">
                   Try Free Demo Class
                 </Button>
-                <p className="text-center text-sm text-gray-300">7-Day Money-Back Guarantee</p>
                 <div className="space-y-3 pt-4 border-t border-white/20">
                   <h3 className="font-bold">This course includes:</h3>
                   <div className="space-y-2 text-sm">

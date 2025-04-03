@@ -16,7 +16,7 @@
     "stats": {
       "students": "10,000+",
       "selections": "500+",
-      "toppers": "50+"
+      "toppers": "450+"
     },
     "coursesOverview": [
       {
@@ -35,10 +35,10 @@
       },
       {
         "id": "jee-advanced-maths-dropper-2025",
-        "title": "JEE Advanced Mathematics Dropper 2025",
+        "title": "JEE Advanced Mathematics Dropper 2026",
         "description": "Complete syllabus revision through problems till JEE Advanced 2025.",
         "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2025",
+        "batch": "2026",
         "tag": "Popular",
         "tagColor": "bg-blue-500",
         "fees": "Rs 40000",
@@ -168,7 +168,7 @@
         "rank": "AIR 22",
         "year": "JEE Advanced 2024",
         "feedback": "Mr. Gupta's unique approach to mathematics made complex topics simple to understand.",
-        "video": "waSfjxKuzB0",
+        "video": "MwFeqCVM5gM",
         "title": "My Journey to IIT Bombay"
       },
       {
@@ -177,7 +177,7 @@
         "rank": "AIR 165",
         "year": "JEE Advanced 2024",
         "feedback": "The problem-solving techniques I learned at Vikas Gupta were game-changers for my JEE preparation.",
-        "video": "L6z76MhX3YA",
+        "video": "KUw-8BL3UO0",
         "title": "Success Story: From Average to AIR 120"
       },
       {
@@ -186,7 +186,34 @@
         "rank": "AIR 188",
         "year": "JEE MAINS 2023",
         "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
-        "video": "oYmcMLkj3co",
+        "video": "OMqu8vqF5Kw",
+        "title": "How I Cracked JEE Main"
+      },
+      {
+        "id": "hBh_CCy8-s",
+        "name": "Pallav Kamad",
+        "rank": "AIR 188",
+        "year": "JEE MAINS 2023",
+        "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
+        "video": "tmWxhcIf2qU",
+        "title": "How I Cracked JEE Main"
+      },
+      {
+        "id": "hBh_C5y8-s",
+        "name": "Pallav Kamad",
+        "rank": "AIR 188",
+        "year": "JEE MAINS 2023",
+        "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
+        "video": "IjaWRTllzw0",
+        "title": "How I Cracked JEE Main"
+      },
+      {
+        "id": "hh_CC5y8-s",
+        "name": "Pallav Kamad",
+        "rank": "AIR 188",
+        "year": "JEE MAINS 2023",
+        "feedback": "Vikas Gupta's mathematics teaching methodology helped me tackle the toughest problems with ease.",
+        "video": "9uAiwfidNIs",
         "title": "How I Cracked JEE Main"
       }
     ],
@@ -217,7 +244,7 @@
       },
       {
         "question": "Do you offer scholarships?",
-        "answer": "Yes, we offer merit-based scholarships based on performance in our selection test or previous academic achievements."
+        "answer": "Yes, we offer merit-based  or need-based scholarships based on performance in our selection test or previous academic achievements."
       },
       {
         "question": "How do you track student progress?",
@@ -227,10 +254,9 @@
   },
   "courseDetails": {
     "jee-advanced-maths-revision": {
-      "title": "JEE Advanced Mathematics Rrvision",
+      "title": "JEE Advanced Mathematics Revision",
       "subtitle": "Complete Syllabus Revision through problems till JEE advanced 2025",
       "batch": "2025",
-      "rating": 4.9,
       "reviews": 1245,
       "students": 5000,
       "price": 15000,
@@ -407,10 +433,6 @@
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
-        },
-        {
-          "question": "Is there a refund policy?",
-          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
       ],
       "enrollLink": "https://forms.gle/exampleLink1"
@@ -419,7 +441,6 @@
       "title": "JEE Mains Mathematics",
       "subtitle": "Complete preparation for JEE Mains Mathematics with focus on fundamentals and quick-solving methods",
       "batch": "2025",
-      "rating": 4.8,
       "reviews": 980,
       "students": 4500,
       "price": 20000,
@@ -612,7 +633,7 @@
         },
         {
           "question": "Is there a scholarship program available?",
-          "answer": "Yes, we offer merit-based scholarships based on performance in our selection test or previous academic achievements."
+          "answer": "Yes, we offer merit-based or need-based scholarships based on performance in our selection test or previous academic achievements."
         }
       ],
       "enrollLink": "https://forms.gle/exampleLink2"
@@ -621,7 +642,6 @@
       "title": "JEE Advanced 2027 - XI & XII Syllabus",
       "subtitle": "Comprehensive course covering Class XI & XII syllabus with revision through problems till JEE Advanced 2027",
       "batch": "2027",
-      "rating": 4.9,
       "reviews": 1245,
       "students": 5000,
       "price": 61000,
@@ -684,19 +704,14 @@
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
-        },
-        {
-          "question": "Is there a refund policy?",
-          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
       ],
       "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSchLotDLpr9XvmasvxEeFEn-0u81wI67issGsf7lrXJsA1ahQ/viewform"
     },
     "jee-advanced-maths-dropper-2025": {
-      "title": "JEE Advanced Mathematics Dropper 2025",
-      "subtitle": "Complete Syllabus Revision through problems till JEE Advanced 2025",
+      "title": "JEE Advanced Mathematics Dropper 2026",
+      "subtitle": "Complete Syllabus Revision through problems till JEE Advanced 2026",
       "batch": "2025",
-      "rating": 4.9,
       "reviews": 1245,
       "students": 5000,
       "price": 40000,
@@ -712,7 +727,7 @@
         "image": "/VGSir.jpg",
         "experience": "23+ years",
         "students": 25000,
-        "selections": 1200,
+        "selections": 10000,
         "toppers": 120
       },
       "whatYouWillLearn": [
@@ -758,10 +773,6 @@
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
-        },
-        {
-          "question": "Is there a refund policy?",
-          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
       ],
       "enrollLink": "https://forms.gle/KDduqBnk5vkYcoDA8"
@@ -770,7 +781,6 @@
       "title": "JEE Advanced 2026 - XII Syllabus",
       "subtitle": "XII class syllabus and revision through problems till JEE Advanced 2026",
       "batch": "2026",
-      "rating": 4.9,
       "reviews": 1245,
       "students": 5000,
       "price": 32500,
@@ -833,10 +843,6 @@
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
-        },
-        {
-          "question": "Is there a refund policy?",
-          "answer": "Yes, we offer a 7-day refund policy if you're not satisfied with the course. Terms and conditions apply."
         }
       ],
       "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSdzNf_qNysnKNyaR7Ed_Mq8kcnRoyOUagkV4zLfH120_tfuIg/viewform"

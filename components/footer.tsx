@@ -79,7 +79,12 @@ export default function Footer() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-                <ul className="space-y-2 text-gray-300">
+<ul className="space-y-2 text-gray-300">
+<li>
+  <a href="mailto:vikasgupta@gmail.com" className="text-gray-300 hover:text-white">
+    Email Us
+  </a>
+</li>
                   
                 </ul>
                 <div className="mt-6">

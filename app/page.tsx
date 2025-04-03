@@ -73,7 +73,6 @@ export default function Page() {
     batch: 2025,
     title: "JEE Advanced Mathematics",
     subtitle: "Comprehensive course for JEE Advanced aspirants",
-    rating: 4.8,
     reviews: 1200,
     students: 5000,
     duration: "240 hours",
@@ -171,8 +170,12 @@ export default function Page() {
                 <div className="text-2xl font-bold">23+</div>
                 <div className="text-sm">Years Experience</div>
               </div>
-              <div className="absolute top-48 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
-              <div className="text-2xl font-bold">Founder</div>
+              <div className="absolute top-48 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+              <div className="text-2xl font-bold">Author of</div>
+              <div className="text-sm">Black book</div>
+              </div>
+              <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+              <div className="text-2xl font-bold">Co Founder</div>
               <div className="text-sm">Vibrant Academy kota</div>
               </div>
             </div>
@@ -227,15 +230,7 @@ export default function Page() {
                           </div>
                         </div>
                       </div>
-                      <div className="p-4">
-                        <h3 className="font-bold text-lg">{testimonial.name}</h3>
-                        <div className="flex items-center gap-2 text-sm text-gray-600">
-                          <span className="font-semibold text-red-600">{testimonial.rank}</span>
-                          <span>|</span>
-                          <span>{testimonial.year}</span>
-                        </div>
-                        <p className="mt-2 text-sm text-gray-600">{testimonial.feedback}</p>
-                      </div>
+                      
                     </Card>
                   </div>
                 </CarouselItem>

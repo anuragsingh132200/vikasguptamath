@@ -43,7 +43,7 @@ export default function Navigation() {
             <a href="#about-us" className="hover:text-[#5362D0] transition-all">
               About Us
             </a>
-            <a href="#footer" className="hover:text-[#5362D0] transition-all">
+<a href="mailto:vikasgupta@gmail.com" className="hover:text-[#5362D0] transition-all">
               Contact
             </a>
           </div>
