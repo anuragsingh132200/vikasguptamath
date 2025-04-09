@@ -158,7 +158,7 @@ export default function Page() {
                   className="w-full h-auto rounded-lg shadow-lg"
                 />
               </div>
-              <div className="absolute top-42 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20 ">
+              <div className="absolute top-36 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20 ">
                 <div className="text-2xl font-bold">23+</div>
                 <div className="text-sm">Years Experience</div>
               </div>
