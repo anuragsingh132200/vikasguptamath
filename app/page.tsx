@@ -372,34 +372,7 @@ export default function Page() {
       </section>
 
       {/* Frequently Asked Questions */}
-      <section id="contact" className="py-16 px-4 md:px-6 lg:px-8 bg-gray-50">
-        <div className="container mx-auto max-w-6xl">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Frequently Asked Questions</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">
-              Find answers to common questions about our courses and teaching methodology
-            </p>
-          </div>
-          <div className="max-w-3xl mx-auto">
-            <Accordion type="single" collapsible className="space-y-4">
-              {data.home.faqs.map((faq, index) => (
-                <AccordionItem key={index} value={`faq-${index}`} className="bg-white rounded-lg border">
-                  <AccordionTrigger className="px-6 py-4 hover:no-underline">
-                    <span className="text-left font-medium">{faq.question}</span>
-                  </AccordionTrigger>
-                  <AccordionContent className="px-6 pb-4 pt-0 text-gray-600">{faq.answer}</AccordionContent>
-                </AccordionItem>
-              ))}
-            </Accordion>
-          </div>
-          <div className="text-center mt-10">
-            <Button className="bg-[#5362D0] hover:bg-[#4351C0] gap-2">
-              Contact Us for More Information
-              <ArrowRight className="w-4 h-4" />
-            </Button>
-          </div>
-        </div>
-      </section>
+      
 
       {/* Video Modal */}
       <VideoModal isOpen={!!selectedVideo} onClose={() => setSelectedVideo(null)} videoId={selectedVideo || ""} />
