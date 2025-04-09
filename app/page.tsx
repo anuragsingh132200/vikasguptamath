@@ -162,7 +162,7 @@ export default function Page() {
                 <div className="text-2xl font-bold">23+</div>
                 <div className="text-sm">Years Experience</div>
               </div>
-              <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20 ">
+              <div className="absolute top-0 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20 ">
              <div className="text-2xl font-bold">Co Founder</div>
               <div className="text-sm">Vibrant Academy kota</div>
               </div>
