@@ -172,7 +172,8 @@ export default function Page() {
               </div>
               <div className="absolute top-48 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
               <div className="text-2xl font-bold">Author of</div>
-              <div className="text-sm">Black book and Pink book</div>
+              <div className="text-sm">Black book and 
+                Pink book</div>
               </div>
               <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
               <div className="text-2xl font-bold">Co Founder</div>
