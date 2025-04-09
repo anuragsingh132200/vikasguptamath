@@ -144,14 +144,6 @@ export default function Page() {
                   <div className="text-3xl font-bold text-yellow-300">{data.home.stats.students}</div>
                   <div className="text-sm text-white/80">IITians & NITians Produced</div>
                 </div>
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-yellow-300">{data.home.stats.selections}</div>
-                  <div className="text-sm text-white/80">Selections</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-yellow-300">{data.home.stats.toppers}</div>
-                  <div className="text-sm text-white/80">Toppers</div>
-                </div>
               </div>
             </div>
 
