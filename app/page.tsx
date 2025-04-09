@@ -163,15 +163,16 @@ export default function Page() {
                 <div className="text-sm">Years Experience</div>
               </div>
               <div className="absolute top-60 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
-              <div className="text-2xl font-bold">Author of</div>
+             <div className="text-2xl font-bold">Co Founder</div>
+              <div className="text-sm">Vibrant Academy kota</div>
+              </div>
+              <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+      
+                <div className="text-2xl font-bold">Author of</div>
               <div className="text-sm">Black book (Advanced Problems in Mathematics),
                 <br/>Pink book (Coordinate Geometry)
                 <br/>Yellow book (Algebra)
               </div>
-              </div>
-              <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
-              <div className="text-2xl font-bold">Co Founder</div>
-              <div className="text-sm">Vibrant Academy kota</div>
               </div>
             </div>
           </div>
