@@ -139,7 +139,7 @@ export default function Page() {
               </div>
 
               {/* Stats Section */}
-              <div className="grid grid-cols-3 gap-4 pt-8 border-t border-white/20 mt-8">
+              <div className="pt-8 border-t border-white/20 mt-8">
                 <div className="text-center">
                   <div className="text-3xl font-bold text-yellow-300">{data.home.stats.students}</div>
                   <div className="text-sm text-white/80">IITians & NITians Produced</div>
