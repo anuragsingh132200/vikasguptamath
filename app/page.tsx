@@ -158,15 +158,15 @@ export default function Page() {
                   className="w-full h-auto rounded-lg shadow-lg"
                 />
               </div>
-              <div className="absolute bottom-0 right-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+              <div className="absolute top-60 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20 ">
                 <div className="text-2xl font-bold">23+</div>
                 <div className="text-sm">Years Experience</div>
               </div>
-              <div className="absolute top-60 left-4 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+              <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20 ">
              <div className="text-2xl font-bold">Co Founder</div>
               <div className="text-sm">Vibrant Academy kota</div>
               </div>
-              <div className="absolute top-4 left-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
+              <div className="absolute bottom-0 right-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
       
                 <div className="text-2xl font-bold">Author of</div>
               <div className="text-sm">Black book (Advanced Problems in Mathematics),
