@@ -169,7 +169,7 @@ export default function Page() {
               <div className="absolute bottom-0 right-0 bg-white/10 backdrop-blur-md rounded-lg p-4 text-white z-20">
       
                 <div className="text-2xl font-bold">Author of</div>
-              <div className="text-sm">Black book (Advanced Problems in Mathematics),
+              <div className="text-sm">Black book (Advanced Problems in Mathematics)
                 <br/>Pink book (Coordinate Geometry)
                 <br/>Yellow book (Algebra)
               </div>
