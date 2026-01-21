@@ -16,48 +16,49 @@
     "stats": {
       "students": "10,000+",
       "selections": "500+",
-       "toppers": "450+"
+      "toppers": "450+"
     },
     "coursesOverview": [
       {
-        "id": "course-xi-xii-jee-2027",
-        "title": "JEE Advanced 2027 - XI & XII Syllabus",
-        "description": "Comprehensive course covering Class XI & XII syllabus with revision through problems till JEE Advanced 2027.",
+        "id": "course-xi-xii-jee-2028",
+        "title": "2 year course (Target JEE 2028)",
+        "description": "Course on XI & XII class syllabus and revision through problems till JEE advanced 2028",
         "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2027",
-        "tag": "Bestseller",
-        "tagColor": "bg-red-500",
-        "fees": "Rs 61000",
-        "startDate": "3 April",
-        "endDate": "Till JEE Advanced 2027",
-        "classTimings": "9:15 pm to 11:00 pm on Monday, Wednesday and Friday in class XI and Tuesday, Thursday, Saturday in class XII",
-        "note": "No refund will be entertained in any circumstances."
-      },
-      {
-        "id": "jee-advanced-maths-dropper-2025",
-        "title": "JEE Advanced Mathematics Dropper 2026",
-        "description": "Complete syllabus revision through problems till JEE Advanced 2025.",
-        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2026",
-        "tag": "Popular",
-        "tagColor": "bg-blue-500",
-        "fees": "Rs 40000",
-        "startDate": "1 February",
-        "classTimings": "9:15 pm to 11:00 pm on Tuesday, and Saturday. After second mains: Timings will be 7:00 am to 8:45 am",
-        "note": "No refund will be entertained in any circumstances."
-      },
-      {
-        "id": "course-xii-jee-2026",
-        "title": "JEE Advanced 2026 - XII Syllabus",
-        "description": "XII class syllabus and revision through problems till JEE Advanced 2026.",
-        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
-        "batch": "2026",
+        "batch": "2028",
         "tag": "New",
         "tagColor": "bg-green-500",
-        "fees": "Rs 32500",
-        "startDate": "January beginning (date not finalised yet)",
-        "endDate": "Till JEE Advanced 2026",
-        "classTimings": "9:15 pm to 11:00 pm",
+        "fees": "Rs 65000",
+        "startDate": "8 April (2026)",
+        "endDate": "Till JEE Advanced 2028",
+        "classTimings": "9:15 pm to 11:00 pm on Monday, Wednesday and Friday",
+        "note": "No refund will be entertained in any circumstances."
+      },
+      {
+        "id": "course-droppers-jee-2027",
+        "title": "Course for Droppers (JEE 2027) - VG Sir",
+        "description": "Comprehensive course for droppers targeting JEE 2027.",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
+        "batch": "2027",
+        "tag": "New",
+        "tagColor": "bg-green-500",
+        "fees": "Rs 47000",
+        "startDate": "25 March",
+        "endDate": "Till JEE Advanced 2027",
+        "classTimings": "9:15 pm to 11:00 pm (6 days in a week from April month)",
+        "note": "No refund will be entertained in any circumstances. Contact: 9352992166"
+      },
+      {
+        "id": "course-xii-jee-2027",
+        "title": "JEE Advanced 2027 - XII Syllabus",
+        "description": "XII class syllabus and revision through problems till JEE advanced 2027",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=300&fit=crop",
+        "batch": "2027",
+        "tag": "New",
+        "tagColor": "bg-green-500",
+        "fees": "Rs 38000",
+        "startDate": "7 January (2026)",
+        "endDate": "Till JEE Advanced 2027",
+        "classTimings": "9:15 pm to 11:00 pm on Mon, Wed, Fri (Jan-Feb 2026) | Tue, Thu, Sat (from April 2026)",
         "note": "No refund will be entertained in any circumstances."
       }
     ],
@@ -226,7 +227,6 @@
         "question": "Do you offer online classes?",
         "answer": "Yes, we offer both online and offline classes. Our online platform provides the same quality of education with interactive sessions, doubt-clearing, and regular assessments."
       },
-    
       {
         "question": "How can I enroll in your courses?",
         "answer": "You can enroll by   registering online through our website."
@@ -235,7 +235,6 @@
         "question": "Do you provide study materials?",
         "answer": "Yes, comprehensive study materials including notes, formula books, problem sets, and practice tests are provided to all enrolled students."
       },
-      
       {
         "question": "Do you offer scholarships?",
         "answer": "Yes, we offer merit-based  or need-based scholarships based on performance in our selection test or previous academic achievements."
@@ -293,8 +292,8 @@
       ],
       "features": [
         "Comprehensive study material and notes",
-        "Daily practice problems with solutions",
-        "Weekly tests and assessments",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
         "Doubt clearing sessions",
         "One-on-one mentoring",
         "Performance tracking and analysis",
@@ -414,8 +413,6 @@
           "question": "Is this course suitable for JEE Mains preparation as well?",
           "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
         },
-        
-        
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
@@ -486,8 +483,8 @@
       ],
       "features": [
         "Comprehensive study material and notes",
-        "Daily practice problems with solutions",
-        "Weekly tests and assessments",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
         "Doubt clearing sessions",
         "Performance tracking and analysis",
         "Parent-teacher meetings"
@@ -660,18 +657,16 @@
         "Practice with thousands of problems of varying difficulty levels",
         "Understand the JEE Advanced examination pattern and question types",
         "Learn time management and exam strategies",
-         "Get personalized feedback and improvement plans"
-         
+        "Get personalized feedback and improvement plans"
       ],
       "features": [
         "Comprehensive study material and notes",
-        "Daily practice problems with solutions",
-        "Weekly tests and assessments",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
         "Doubt clearing sessions",
         "One-on-one mentoring",
         "Performance tracking and analysis",
-         "Parent-teacher meetings"
-         
+        "Parent-teacher meetings"
       ],
       "note": "No refund will be entertained in any circumstances.",
       "requirements": [
@@ -685,8 +680,6 @@
           "question": "Is this course suitable for JEE Mains preparation as well?",
           "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
         },
-        
-        
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
@@ -731,18 +724,16 @@
         "Practice with thousands of problems of varying difficulty levels",
         "Understand the JEE Advanced examination pattern and question types",
         "Learn time management and exam strategies",
-         "Get personalized feedback and improvement plans"
-         
+        "Get personalized feedback and improvement plans"
       ],
       "features": [
         "Comprehensive study material and notes",
-        "Daily practice problems with solutions",
-        "Weekly tests and assessments",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
         "Doubt clearing sessions",
         "One-on-one mentoring",
         "Performance tracking and analysis",
-         "Parent-teacher meetings"
-         
+        "Parent-teacher meetings"
       ],
       "note": "No refund will be entertained in any circumstances.",
       "requirements": [
@@ -756,8 +747,6 @@
           "question": "Is this course suitable for JEE Mains preparation as well?",
           "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
         },
-        
-        
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
@@ -803,18 +792,16 @@
         "Practice with thousands of problems of varying difficulty levels",
         "Understand the JEE Advanced examination pattern and question types",
         "Learn time management and exam strategies",
-         "Get personalized feedback and improvement plans"
-         
+        "Get personalized feedback and improvement plans"
       ],
       "features": [
         "Comprehensive study material and notes",
-        "Daily practice problems with solutions",
-        "Weekly tests and assessments",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
         "Doubt clearing sessions",
         "One-on-one mentoring",
         "Performance tracking and analysis",
-         "Parent-teacher meetings"
-         
+        "Parent-teacher meetings"
       ],
       "note": "No refund will be entertained in any circumstances.",
       "requirements": [
@@ -828,8 +815,6 @@
           "question": "Is this course suitable for JEE Mains preparation as well?",
           "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
         },
-        
-       
         {
           "question": "How many hours of study are recommended daily?",
           "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
@@ -844,6 +829,210 @@
         }
       ],
       "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSdzNf_qNysnKNyaR7Ed_Mq8kcnRoyOUagkV4zLfH120_tfuIg/viewform"
+    },
+    "course-xi-xii-jee-2028": {
+      "title": "2 year course (Target JEE 2028)",
+      "subtitle": "Course on XI-XII class syllabus and revision through problems till JEE advanced 2028",
+      "batch": "2028",
+      "reviews": 0,
+      "students": 0,
+      "price": 65000,
+      "originalPrice": 65000,
+      "duration": "2 years",
+      "classes": "9:15 pm to 11:00 pm on Monday, Wednesday and Friday",
+      "startDate": "8 April (2026)",
+      "endDate": "Till JEE Advanced 2028",
+      "language": "English & Hindi",
+      "level": "Advanced",
+      "instructor": {
+        "name": "Mr. Vikas Gupta",
+        "title": "Mathematics Expert & Founder of Vibrant Academy",
+        "image": "/VGSir.jpg",
+        "experience": "23+ years",
+        "students": 25000,
+        "selections": 10000,
+        "toppers": 120
+      },
+      "whatYouWillLearn": [
+        "Comprehensive understanding of Class XI & XII Mathematics syllabus",
+        "Effective problem-solving techniques and shortcuts",
+        "Develop mathematical intuition and analytical thinking",
+        "Practice with thousands of problems of varying difficulty levels",
+        "Understand the JEE Advanced examination pattern and question types",
+        "Learn time management and exam strategies",
+        "Get personalized feedback and improvement plans"
+      ],
+      "features": [
+        "Comprehensive study material and notes",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
+        "Doubt clearing sessions",
+        "One-on-one mentoring",
+        "Performance tracking and analysis",
+        "Parent-teacher meetings"
+      ],
+      "note": "No refund will be entertained in any circumstances.",
+      "requirements": [
+        "Strong foundation in Class 10 Mathematics",
+        "Dedication to regular practice and problem-solving",
+        "Commitment to completing assignments and tests",
+        "Basic understanding of algebraic manipulations"
+      ],
+      "faqs": [
+        {
+          "question": "Is this course suitable for JEE Mains preparation as well?",
+          "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
+        },
+        {
+          "question": "How many hours of study are recommended daily?",
+          "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "We have no refund policy."
+        },
+        {
+          "question": "What if I am struggling to pay fees at once?",
+          "answer": "If you are facing difficulties, you can discuss a payment plan with Vikas Gupta sir to pay in installments."
+        }
+      ],
+      "enrollLink": "https://forms.gle/eomjBctaW3Wz5wQb9"
+    },
+    "course-xii-jee-2027": {
+      "title": "JEE Advanced 2027 - XII Syllabus",
+      "subtitle": "XII class syllabus and revision through problems till JEE advanced 2027",
+      "batch": "2027",
+      "reviews": 0,
+      "students": 0,
+      "price": 38000,
+      "originalPrice": 38000,
+      "duration": "Until JEE 2027",
+      "classes": "9:15 pm to 11:00 pm on Mon, Wed, Fri (Jan-Feb 2026) | Tue, Thu, Sat (from April 2026)",
+      "startDate": "7 January (2026)",
+      "endDate": "Till JEE Advanced 2027",
+      "language": "English & Hindi",
+      "level": "Advanced",
+      "instructor": {
+        "name": "Mr. Vikas Gupta",
+        "title": "Mathematics Expert & Founder of Vibrant Academy",
+        "image": "/VGSir.jpg",
+        "experience": "23+ years",
+        "students": 25000,
+        "selections": 10000,
+        "toppers": 120
+      },
+      "whatYouWillLearn": [
+        "Complete understanding of Class XII Mathematics syllabus",
+        "Effective problem-solving techniques and shortcuts",
+        "Develop mathematical intuition and analytical thinking",
+        "Practice with thousands of problems of varying difficulty levels",
+        "Understand the JEE Advanced examination pattern and question types",
+        "Learn time management and exam strategies",
+        "Get personalized feedback and improvement plans"
+      ],
+      "features": [
+        "Comprehensive study material and notes",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
+        "Doubt clearing sessions",
+        "One-on-one mentoring",
+        "Performance tracking and analysis",
+        "Parent-teacher meetings"
+      ],
+      "note": "No refund will be entertained in any circumstances.",
+      "requirements": [
+        "Strong foundation in Class 11 Mathematics",
+        "Dedication to regular practice and problem-solving",
+        "Commitment to completing assignments and tests",
+        "Basic understanding of algebraic manipulations"
+      ],
+      "faqs": [
+        {
+          "question": "Is this course suitable for JEE Mains preparation as well?",
+          "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
+        },
+        {
+          "question": "How many hours of study are recommended daily?",
+          "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "We have no refund policy."
+        },
+        {
+          "question": "What if I am struggling to pay fees at once?",
+          "answer": "If you are facing difficulties, you can discuss a payment plan with Vikas Gupta sir to pay in installments."
+        }
+      ],
+      "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSfKvV7x-CcockCzh96cwSXGxtdsS5ROLi1aOCbuNvmdEovuVw/viewform"
+    },
+    "course-droppers-jee-2027": {
+      "title": "Course for Droppers (JEE 2027) - VG Sir",
+      "subtitle": "Comprehensive course for droppers targeting JEE 2027",
+      "batch": "2027",
+      "reviews": 0,
+      "students": 0,
+      "price": 47000,
+      "originalPrice": 47000,
+      "duration": "1 year",
+      "classes": "9:15 pm to 11:00 pm (6 days in a week from April month)",
+      "startDate": "25 March",
+      "endDate": "Till JEE Advanced 2027",
+      "language": "English & Hindi",
+      "level": "Advanced",
+      "instructor": {
+        "name": "Mr. Vikas Gupta",
+        "title": "Mathematics Expert & Founder of Vibrant Academy",
+        "image": "/VGSir.jpg",
+        "experience": "23+ years",
+        "students": 25000,
+        "selections": 10000,
+        "toppers": 120
+      },
+      "whatYouWillLearn": [
+        "Complete syllabus revision through problems",
+        "Effective problem-solving techniques and shortcuts",
+        "Develop mathematical intuition and analytical thinking",
+        "Practice with thousands of problems of varying difficulty levels",
+        "Understand the JEE Advanced examination pattern and question types",
+        "Learn time management and exam strategies",
+        "Get personalized feedback and improvement plans"
+      ],
+      "features": [
+        "Comprehensive study material and notes",
+        "Practice problems of Sheets with discussion in the class.",
+        "  tests and assessments",
+        "Doubt clearing sessions",
+        "One-on-one mentoring",
+        "Performance tracking and analysis",
+        "Parent-teacher meetings"
+      ],
+      "note": "No refund will be entertained in any circumstances. Contact: 9352992166",
+      "contact": "9352992166",
+      "requirements": [
+        "Strong foundation in Class 11 & 12 Mathematics",
+        "Dedication to regular practice and problem-solving",
+        "Commitment to completing assignments and tests"
+      ],
+      "faqs": [
+        {
+          "question": "Is this course suitable for JEE Mains preparation as well?",
+          "answer": "Yes, this course covers all topics required for both JEE Advanced and JEE Mains Mathematics. The concepts and problem-solving techniques will help you excel in both examinations."
+        },
+        {
+          "question": "How many hours of study are recommended daily?",
+          "answer": "Apart from the regular classes, we recommend at least 2-3 hours of self-study and practice daily for optimal results."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "We have no refund policy."
+        },
+        {
+          "question": "What if I am struggling to pay fees at once?",
+          "answer": "If you are facing difficulties, you can discuss a payment plan with Vikas Gupta sir to pay in installments."
+        }
+      ],
+      "enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSeFPO5eTr58IYEpDK4daaFu9dKuTlm8-iHJMXkunui2R0j6-A/viewform"
     }
   }
 }
